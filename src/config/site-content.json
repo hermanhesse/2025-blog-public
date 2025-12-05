@@ -44,15 +44,15 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/hermanhesse",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "xiaohongshu",
+			"value": "https://xhslink.com/m/4LNrtRfwDde311675422382",
+			"label": "小红书",
 			"order": 2
 		},
 		{
